@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffab061c-6607-4096-a7a2-a60bd179fec3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hn6sVSkyuS3j17Cf5nGw1vYB0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffab061c-6607-4096-a7a2-a60bd179fec3" name="Default Changelist" comment="" />
+      <created>1600634715508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600634715508</updated>
+      <workItem from="1600634716530" duration="4134000" />
+      <workItem from="1600880113216" duration="22000" />
+      <workItem from="1600881252261" duration="1750000" />
+      <workItem from="1601055764467" duration="1127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2256" y="361" key="#SQL_Dialects" timestamp="1600634833966">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2256" y="361" key="#SQL_Dialects/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600634833966" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1600634720997">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600634720997" />
+  </component>
+</project>
